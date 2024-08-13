@@ -1,0 +1,22 @@
+{
+  "name": "@shentohendriks/test-package",
+  "version": "0.0.1",
+  "description": "A test npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShentoHendriks/test-package.git"
+  },
+  "author": "Shento Hendriks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShentoHendriks/test-package/issues"
+  },
+  "homepage": "https://github.com/ShentoHendriks/test-package#readme",
+  "dependencies": {
+    "locomotive-scroll": "^5.0.0-beta.14"
+  }
+}
